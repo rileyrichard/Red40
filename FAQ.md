@@ -1,7 +1,7 @@
 # F.A.Q
 > Q1. When will the game be released?
 > > A1. We don't know.
-
+> 
 > > A2 (UPDATE 3/21/22): We are going to be releasing the game in stages. You can view them [here](https://github.com/Joystick299/Red40/blob/main/timeline.md)
 
 > Q2. Are you going to support PC/Console?
