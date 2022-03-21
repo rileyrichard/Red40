@@ -1,4 +1,4 @@
-# Red40 - An overwhelming experience featuring 445 shades of red!
+# Red40
 ## We don't know what we're doing
 ### By: Joystick, Somedude0
 ---
