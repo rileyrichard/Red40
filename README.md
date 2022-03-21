@@ -7,4 +7,4 @@ Red40 is a roguelike top down dungeon crawler where you're a samurai named [REDA
 Fight your way and see if you can make it through alive.
 ---
 
-See our [F.A.Q](https://github.com/Joystick299/Red40/faq.md) for more details.
+See our [F.A.Q](https://github.com/Joystick299/Red40/blob/main/FAQ.md) for more details.
