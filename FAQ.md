@@ -1,4 +1,4 @@
-F.A.Q
+# F.A.Q
 > Q1. When will the game be released?
 > > A1. We don't know.
 
